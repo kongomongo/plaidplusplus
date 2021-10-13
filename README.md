@@ -13,5 +13,9 @@ The Plaid uses a lot of the parts bin from the Model 3/Y, and that's a great thi
 * I wrote custom firmware that uses a Particle Photon + Carloop device to send messages that the plaid expects. This took a bit of reverse engineering and I'll post the info to the github link as time allows. I will not directly help anyone who wants to do this, but I wish you luck. It should be relatively easy once I work out the remaining kinks.
 * This change is entirely reversible, and no stock hardware is permanently modified. The shrouds with cutouts for stalks are directly out of a Model 3, and the Plaid shrouds are untouched.
 
-# Video
+# Videos
+### Turn signals/brights
 [![YouTube: Exmaple of it doing things](https://img.youtube.com/vi/6T2n5DXqf1k/0.jpg)](https://www.youtube.com/watch?v=6T2n5DXqf1k)
+### Gear selector
+[![YouTube: Stalks 2: The Restalkening](https://img.youtube.com/vi/aiFW8M5Xy0Q/0.jpg)](https://www.youtube.com/watch?v=aiFW8M5Xy0Q)
+
