@@ -31,6 +31,7 @@ The Plaid uses a lot of the parts bin from the Model 3/Y, and that's a great thi
 |SCCM connector pin housing|2|https://www.mouser.com/ProductDetail/571-1924396-1|
 |MCON 1.2 Pins for connector (F)|14|https://www.mouser.com/ProductDetail/571-1670144-1-CT|
 |MCON 1.2 Pins for improvised connector (M)|14|https://www.mouser.com/ProductDetail/571-1718350-2|
+|18 or 19 AWG wire|Recommend at least 10 ft, I used four colors to make it easy to organize things.|find it yourself :)|
 
 -----------------
 
