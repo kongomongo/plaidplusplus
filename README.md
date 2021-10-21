@@ -19,3 +19,24 @@ The Plaid uses a lot of the parts bin from the Model 3/Y, and that's a great thi
 ### Gear selector
 [![YouTube: Stalks 2: The Restalkening](https://img.youtube.com/vi/aiFW8M5Xy0Q/0.jpg)](https://www.youtube.com/watch?v=aiFW8M5Xy0Q)
 
+### BOM - Turn stalk side
+|Part|No. Needed|Link|
+|-----|-----|-----|
+|SCCM connector|2|https://www.mouser.com/ProductDetail/571-1924393-1|
+|SCCM connector pin housing|2|https://www.mouser.com/ProductDetail/571-1924396-1|
+|MCON 1.2 Pins for connector (F)|14|https://www.mouser.com/ProductDetail/571-1670144-1-CT|
+|MCON 1.2 Pins for improvised connector (M)|14|https://www.mouser.com/ProductDetail/571-1718350-2|
+
+
+### BOM - Shifter side
+|Part|No. Needed|Link|
+|-----|-----|-----|
+|Console connector (F)|1|https://www.mouser.com/ProductDetail/571-1-936119-1|
+|MQS Pins for above|4|https://www.mouser.com/ProductDetail/571-5-962885-1-CT|
+|Console connector (M)|1|https://www.mouser.com/ProductDetail/571-936121-1|
+|MQS Pins for above|4|https://www.mouser.com/ProductDetail/571-5-965908-1-CT or https://www.mouser.com/ProductDetail/571-5-962886-1|
+
+
+
+
+
