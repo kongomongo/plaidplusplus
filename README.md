@@ -18,6 +18,10 @@ The Plaid uses a lot of the parts bin from the Model 3/Y, and that's a great thi
 [![YouTube: Exmaple of it doing things](https://img.youtube.com/vi/6T2n5DXqf1k/0.jpg)](https://www.youtube.com/watch?v=6T2n5DXqf1k)
 ### Gear selector
 [![YouTube: Stalks 2: The Restalkening](https://img.youtube.com/vi/aiFW8M5Xy0Q/0.jpg)](https://www.youtube.com/watch?v=aiFW8M5Xy0Q)
+### Diagnostic Connector Tour
+[![Diagnostic Connector Tour](https://img.youtube.com/vi/OKzPa2HdsvA/0.jpg)](https://www.youtube.com/watch?v=OKzPa2HdsvA)
+
+
 
 -----------------
 
